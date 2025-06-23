@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = IPA_Excel_Extension
+build_property.ProjectDir = C:\Users\pmoha\source\repos\IPA_Excel_Extension\IPA_Excel_Extension\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

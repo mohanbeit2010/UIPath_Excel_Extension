@@ -1,0 +1,9 @@
+C:\Users\pmoha\source\repos\IPA_Excel_Extension\IPA_Excel_Extension\obj\Debug\IPA_Excel_Extension.csproj.AssemblyReference.cache
+C:\Users\pmoha\source\repos\IPA_Excel_Extension\IPA_Excel_Extension\obj\Debug\IPA_Excel_Extension.csproj.CoreCompileInputs.cache
+C:\Users\pmoha\source\repos\IPA_Excel_Extension\IPA_Excel_Extension\bin\Debug\IPA_Excel_Extension.dll
+C:\Users\pmoha\source\repos\IPA_Excel_Extension\IPA_Excel_Extension\bin\Debug\IPA_Excel_Extension.pdb
+C:\Users\pmoha\source\repos\IPA_Excel_Extension\IPA_Excel_Extension\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pmoha\source\repos\IPA_Excel_Extension\IPA_Excel_Extension\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pmoha\source\repos\IPA_Excel_Extension\IPA_Excel_Extension\obj\Debug\IPA_Exce.58BF4AC1.Up2Date
+C:\Users\pmoha\source\repos\IPA_Excel_Extension\IPA_Excel_Extension\obj\Debug\IPA_Excel_Extension.dll
+C:\Users\pmoha\source\repos\IPA_Excel_Extension\IPA_Excel_Extension\obj\Debug\IPA_Excel_Extension.pdb

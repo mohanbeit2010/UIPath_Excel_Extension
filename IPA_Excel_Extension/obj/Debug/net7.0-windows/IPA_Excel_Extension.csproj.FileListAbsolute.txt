@@ -1,0 +1,5 @@
+C:\Users\pmoha\source\repos\IPA_Excel_Extension\IPA_Excel_Extension\obj\Debug\net7.0-windows\IPA_Excel_Extension.csproj.AssemblyReference.cache
+C:\Users\pmoha\source\repos\IPA_Excel_Extension\IPA_Excel_Extension\obj\Debug\net7.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\pmoha\source\repos\IPA_Excel_Extension\IPA_Excel_Extension\obj\Debug\net7.0-windows\IPA_Excel_Extension.csproj.ResolveComReference.cache
+C:\Users\pmoha\source\repos\IPA_Excel_Extension\IPA_Excel_Extension\obj\Debug\net7.0-windows\IPA_Excel_Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmoha\source\repos\IPA_Excel_Extension\IPA_Excel_Extension\obj\Debug\net7.0-windows\IPA_Excel_Extension.csproj.CoreCompileInputs.cache
